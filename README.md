@@ -1,0 +1,2 @@
+# ConfMgrOperationalCollections
+Configuration Manager Operational Collections
